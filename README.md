@@ -1,4 +1,4 @@
-# mongodb
+# node
 
 node.js是一个能让javascript语言运行在服务器上的开发平台
 
